@@ -39,7 +39,7 @@ button {
 
 @media screen and (max-width: 600px) {
   p, button {
-    font-size: 1.5em;
-    padding: 3%;
+    font-size: 2em;
+    padding: 5%;
   }
 }
