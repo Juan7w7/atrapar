@@ -14,27 +14,26 @@ p {
 }
 
 button {
-  font-size: 2em; /* Cambiado a unidades em */
+  font-size: 4em; /* Cambiado a unidades em */
   padding: 0.75em;
 }
 
 #btnSi, #btnNo {
   position: absolute;
-  background-size: cover;
   border: none;
   color: rgba(0, 0, 0, 0);
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   cursor: pointer;
 }
 
 #btnSi {
-  background-image: url('https://media.tenor.com/anFDxPzJV3gAAAAM/cat-running.gif');
+  transform: translate(-100%, 0);
+  background-image: url('https://media.tenor.com/m2G79TK4HmAAAAAd/cat.gif');
 }
 
 #btnNo {
-  transform: translate(-100%, 0);
+  transform: translate(75%, 0);
   background-image: url('https://media.tenor.com/KP9n-DVhE00AAAAC/melody-my-melody.gif');
 }
 
