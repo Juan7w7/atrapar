@@ -1,7 +1,7 @@
 const btnSi = document.querySelector('#btnSi');
 
 btnSi.addEventListener('click',function () {
-    alert('Sabía que ibas a atrapar al gato, paso por ti el sabado 7w7.')
+    alert('Sabía que ibas a atrapar el pito, golosa.')
 });
 
 const btnNo = document.querySelector('#btnNo');
