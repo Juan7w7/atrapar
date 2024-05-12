@@ -2,7 +2,7 @@
   margin: 0;
   color: white;
   text-align: center;
-  background-image: url('https://4kwallpapers.com/images/wallpapers/my-melody-kuromi-my-4480x2520-11739.png');
+  background-image: url('https://wallpapers-clan.com/wp-content/uploads/2024/03/nyan-cat-meme-gif-desktop-wallpaper-cover.gif');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -29,12 +29,12 @@ button {
 
 #btnSi {
   transform: translate(-100%, 0);
-  background-image: url('https://media.tenor.com/m2G79TK4HmAAAAAd/cat.gif');
+  background-image: url('https://i.pinimg.com/236x/e2/f5/a4/e2f5a4f1f0032cfdfcd0ad3748d87fd6.jpg');
 }
 
 #btnNo {
   transform: translate(75%, 0);
-  background-image: url('https://media.tenor.com/KP9n-DVhE00AAAAC/melody-my-melody.gif');
+  background-image: url('https://media.tenor.com/NriPgWB5pGEAAAAM/catjam.gif');
 }
 
 @media screen and (max-width: 600px) {
